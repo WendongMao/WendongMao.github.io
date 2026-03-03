@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Wendong Mao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "I am a Lecturer at the School of Integrated Circuits, Sun Yat-sen University. "
+repository               : "https://wendongmao.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wendong Mao"
   avatar           : "images/mwd-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Sun Yat-sen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
