@@ -52,20 +52,20 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 - *2022.07* Best Paper Award, IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022) -->
 
 # 🎖 Honors and Awards
-- *2025*: Outstanding Doctoral Dissertation of Jiangsu Province (the sole recipient in the discipline)
-- *2024*: Outstanding Doctoral Dissertation Award from the China Electronics Education Association (one of only 20 recipients nationwide; the only recipient from Nanjing University in the past 4 years)
-- *2024*: Outstanding Doctoral Dissertation of Nanjing University
-- *2023*: Young Excellent Talent, and Assistant Professor of the "Hundred Talents Program", Sun Yat-sen University
-- *2023*: Outstanding Graduate of Nanjing University
-- *2022*: Doctoral National Scholarship, Ministry of Education (ranked 1st in the school, 1/400+)
-- *2022*: Best Paper Award, IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022) (Top 1%)
-- *2022*: Recommended by the School of Electronic Science and Engineering as an Outstanding Graduate Student Representative for Nanjing University's Annual Feature Interview (1-2 per school)
-- *2022*: Recommended by the Graduate School of Nanjing University as an Outstanding Graduate Representative to attend the President's Award Ceremony at the Nanjing University Graduation Ceremony (one of only 20 university-wide, the sole representative from the school)
-- *2021*: Outstanding Graduate Student Pacemaker (Top 5%), Nanjing University
-- *2021*: First-class Scholarship for Excellent Doctoral Students, Nanjing University
-- *2021*: Outstanding Doctoral Student in the Mid-term Assessment (Top 15%), Nanjing University
-- *2020*: Xingzhi Scholarship in Artificial Intelligence Industry (CN¥20,000), Nanjing University
-- *2018*: President's Scholarship for Doctoral Students (CN¥20,000), Nanjing University
+- *2025*: Outstanding Doctoral Dissertation of Jiangsu Province (the sole recipient in the discipline).
+- *2024*: Outstanding Doctoral Dissertation Award from the China Electronics Education Association (one of only 20 recipients nationwide; the only recipient from Nanjing University in the past 4 years).
+- *2024*: Outstanding Doctoral Dissertation of Nanjing University.
+- *2023*: Young Excellent Talent, and Assistant Professor of the "Hundred Talents Program", Sun Yat-sen University.
+- *2023*: Outstanding Graduate of Nanjing University.
+- *2022*: Doctoral National Scholarship, Ministry of Education (ranked 1st in the school, 1/400+).
+- *2022*: Best Paper Award, IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022) (Top 1%).
+- *2022*: Recommended by the School of Electronic Science and Engineering as an Outstanding Graduate Student Representative for Nanjing University's Annual Feature Interview (1-2 per school).
+- *2022*: Recommended by the Graduate School of Nanjing University as an Outstanding Graduate Representative to attend the President's Award Ceremony at the Nanjing University Graduation Ceremony (one of only 20 university-wide, the sole representative from the school).
+- *2021*: Outstanding Graduate Student Pacemaker (Top 5%), Nanjing University.
+- *2021*: First-class Scholarship for Excellent Doctoral Students, Nanjing University.
+- *2021*: Outstanding Doctoral Student in the Mid-term Assessment (Top 15%), Nanjing University.
+- *2020*: Xingzhi Scholarship in Artificial Intelligence Industry (CN¥20,000), Nanjing University.
+- *2018*: President's Scholarship for Doctoral Students (CN¥20,000), Nanjing University.
 
 # 📖 Educations
 - *2018.09 - 2023.06*, Ph.D. in Information and Communication Engineering, Nanjing University, supervised by Zhongfeng Wang(IEEE Fellow).
@@ -73,11 +73,11 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 - *2014.09 - 2018.06*, Bachelor in Information Engineering, Jilin University.
 
 # 💬 Invited Talks
-- 2025 Information Processing and Intelligent Perception Summit Forum, Computing Algorithms Session, "Efficient Edge-side Visual Perception and Computing Acceleration Based on New-generation AI Models"
+- 2025 Information Processing and Intelligent Perception Summit Forum, Computing Algorithms Session, "Efficient Edge-side Visual Perception and Computing Acceleration Based on New-generation AI Models".
 
-- 2025 Intelligent Materials and Optoelectronic Devices Conference, Young Scientist Forum, "Multimodal Visual Information Processing and Edge-side Intelligent Computing"
+- 2025 Intelligent Materials and Optoelectronic Devices Conference, Young Scientist Forum, "Multimodal Visual Information Processing and Edge-side Intelligent Computing".
 
-- International Conference on Image Vision and Intelligent Systems, "Research on AI Algorithm Design and Hardware Acceleration for Diverse Visual Data"
+- International Conference on Image Vision and Intelligent Systems, "Research on AI Algorithm Design and Hardware Acceleration for Diverse Visual Data".
 
 
 # 💻 Internships
