@@ -73,7 +73,11 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 - *2014.09 - 2018.06*, Bachelor in Information Engineering, Jilin University.
 
 # 💬 Invited Talks
-- wait. 
+- 2025 Information Processing and Intelligent Perception Summit Forum, Computing Algorithms Session, "Efficient Edge-side Visual Perception and Computing Acceleration Based on New-generation AI Models"
+
+- 2025 Intelligent Materials and Optoelectronic Devices Conference, Young Scientist Forum, "Multimodal Visual Information Processing and Edge-side Intelligent Computing"
+
+- International Conference on Image Vision and Intelligent Systems, "Research on AI Algorithm Design and Hardware Acceleration for Diverse Visual Data"
 
 
 # 💻 Internships
