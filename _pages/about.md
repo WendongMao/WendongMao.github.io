@@ -41,7 +41,8 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-**W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
+-[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.12*: Outstanding Doctoral Dissertation of Jiangsu Province.
