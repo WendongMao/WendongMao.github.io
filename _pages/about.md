@@ -37,7 +37,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 **Wendong Mao**, Shuai Yang, Huihong Shi, Jiaying Liu, and Zhongfeng Wang
 
 [**Project**](https://github.com/WendongMao/Intelligent_Typography) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  we propose the first coarse-to-fine framework to generate exquisite texts with complex texture and structure in an unsupervised way, achieving real-time control of style scale. 
 </div>
 </div>
 
