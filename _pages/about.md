@@ -36,13 +36,13 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 **Wendong Mao**, Shuai Yang, Huihong Shi, Jiaying Liu, and Zhongfeng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/WendongMao/Intelligent_Typography) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 -**W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
--[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2024.12*: Outstanding Doctoral Dissertation of Jiangsu Province.
