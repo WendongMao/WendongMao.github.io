@@ -68,9 +68,9 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 - *2018*: President's Scholarship for Doctoral Students (CN¥20,000), Nanjing University.
 
 # 📖 Educations
-- *2018.09 - 2023.06*, Ph.D. in Information and Communication Engineering, Nanjing University, supervised by Zhongfeng Wang(IEEE Fellow).
-- *2019.06 - 2022.06*, Joint-Supervision, Wangxuan Institute of Computer Technology, Peking University, supervised by Jiaying Liu(IEEE Fellow).
-- *2014.09 - 2018.06*, Bachelor in Information Engineering, Jilin University.
+- *2018.09 - 2023.06*, Ph.D. in Information and Communication Engineering, **Nanjing University**, supervised by Zhongfeng Wang(IEEE Fellow).
+- *2019.06 - 2022.06*, Joint-Supervision, Wangxuan Institute of Computer Technology, **Peking University**, supervised by Jiaying Liu(IEEE Fellow).
+- *2014.09 - 2018.06*, Bachelor in Information Engineering, **Jilin University**.
 
 # 💬 Invited Talks
 - 2025 Information Processing and Intelligent Perception Summit Forum, Computing Algorithms Session, "Efficient Edge-side Visual Perception and Computing Acceleration Based on New-generation AI Models".
