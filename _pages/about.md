@@ -41,7 +41,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 </div>
 
--**W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
+- **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
 
 -**W. Mao**, P. Yang, Z. Wang, "FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
