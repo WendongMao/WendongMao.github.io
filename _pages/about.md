@@ -43,6 +43,17 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 -**W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
 
+-**W. Mao**, P. Yang, Z. Wang, "FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
+
+-**W. Mao**, Z. Su, J. Luo, Z. Wang, "A Unified Acceleration Solution Based on Deformable Network for Image Pixel Processing," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+
+-**W. Mao**, J. Lin, Z. Wang, "F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
+
+-Y. Yu, **W. Mao**, J. Luo, Z. Wang, "A Low-Latency Framework with Algorithm-Hardware Co-Optimization for 3D Point Cloud," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+
+-S. Zhang, **W. Mao**, Z. Wang, "An Efficient Accelerator Based on Lightweight Deformable 3D-CNN for Video Super-Resolution," in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
+
+-T. Yin, **W. Mao**, J. Lu, Z. Wang, "A Reconfigurable Accelerator for Generative Adversarial Network Training Based on FPGA," in IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pp. 144-149, 2021.
 
 <!-- # 🎖 Honors and Awards
 - *2024.12*: Outstanding Doctoral Dissertation of Jiangsu Province.
