@@ -42,39 +42,40 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 
 
-- **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
+- **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "[Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365687)," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
 
 -  **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023
 
-- **W. Mao**, P. Yang, Z. Wang, "FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
+- **W. Mao**, P. Yang, Z. Wang, "[FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540753)," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
-- **W. Mao**, Z. Su, J. Luo, Z. Wang, "A Unified Acceleration Solution Based on Deformable Network for Image Pixel Processing," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+- **W. Mao**, Z. Su, J. Luo, Z. Wang, "[A Unified Acceleration Solution Based on Deformable Network for Image Pixel Processing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113792)," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
 
-- **W. Mao**, J. Lin, Z. Wang, "F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
+- **W. Mao**, J. Lin, Z. Wang, "[F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131743)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
 
-- Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taiwan, China, 2024
-- H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Energy-Efficient Neuromorphic Accelerator Based on Deformable Spiking Transformer for Dynamic Vision Sensor," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 12, pp. 7860-7873, Dec. 2025
-  
-- S. Zhang, **W. Mao** and Z. Wang, "VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
-  
-- M. Zhao, **W. Mao** and Z. Wang, "DATA: A Memory-Efficient Deformable Transformer Accelerator via Neural Architecture Search," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 11, pp. 3097-3108, Nov. 2025
-  
-- H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Efficient Brain-Inspired Accelerator Using a High-Accuracy Conversion Algorithm for Spiking Deformable CNN," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 72, no. 1, pp. 288-292, Jan. 2025
-  
-- S. Zhang, Q. Dong, **W. Mao** and Z. Wang, "A Unified Accelerator for All-in-One Image Restoration Based on Prompt Degradation Learning," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 3, pp. 1282-1295, March 2025
-  
-- H. Shi, X. Cheng, **W. Mao** and Z. Wang, "P2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 32, no. 9, pp. 1704-1717, Sept. 2024
-  
-- H. Shi, Y. Xu, Y. Wang, **W. Mao** and Z. Wang, "NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 1, pp. 306-319, Jan. 2024
-  
-- Y. Guo， L. Wang, W. Mao et al., "Deep Lookup Network," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 1, pp. 202-218, Jan. 2026
-  
-- Y. Yu, **W. Mao**, J. Luo, Z. Wang, "A Low-Latency Framework with Algorithm-Hardware Co-Optimization for 3D Point Cloud," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+- Z. Feng, Z. Wang and **W. Mao**, "[A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10808609)," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taiwan, China, 2024
 
-- S. Zhang, **W. Mao**, Z. Wang, "An Efficient Accelerator Based on Lightweight Deformable 3D-CNN for Video Super-Resolution," in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
+- H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "[An Energy-Efficient Neuromorphic Accelerator Based on Deformable Spiking Transformer for Dynamic Vision Sensor](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021229)," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 12, pp. 7860-7873, Dec. 2025
+  
+- S. Zhang, **W. Mao** and Z. Wang, "[VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10804689)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
+  
+- M. Zhao, **W. Mao** and Z. Wang, "[DATA: A Memory-Efficient Deformable Transformer Accelerator via Neural Architecture Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11098962)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 11, pp. 3097-3108, Nov. 2025
+  
+- H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "[An Efficient Brain-Inspired Accelerator Using a High-Accuracy Conversion Algorithm for Spiking Deformable CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10737095)," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 72, no. 1, pp. 288-292, Jan. 2025
+  
+- S. Zhang, Q. Dong, **W. Mao** and Z. Wang, "[A Unified Accelerator for All-in-One Image Restoration Based on Prompt Degradation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10819973)," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 3, pp. 1282-1295, March 2025
+  
+- H. Shi, X. Cheng, **W. Mao** and Z. Wang, "[P2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596041)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 32, no. 9, pp. 1704-1717, Sept. 2024
+  
+- H. Shi, Y. Xu, Y. Wang, **W. Mao** and Z. Wang, "[NASA-F: FPGA-Oriented Search and Acceleration for Multiplication-Reduced Hybrid Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10308526)," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 1, pp. 306-319, Jan. 2024
+  
+- Y. Guo， L. Wang, W. Mao et al., "[Deep Lookup Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11169506)," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 1, pp. 202-218, Jan. 2026
+  
+- Y. Yu, **W. Mao**, J. Luo, Z. Wang, "[A Low-Latency Framework with Algorithm-Hardware Co-Optimization for 3D Point Cloud](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144549)," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+
+- S. Zhang, **W. Mao**, Z. Wang, "[An Efficient Accelerator Based on Lightweight Deformable 3D-CNN for Video Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10079152)," in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
 
   
-- J. Lu, M. She, **W. Mao** and Z. Wang, "CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model," 2025 IEEE International Symposium on Circuits and Systems (ISCAS), London, United Kingdom, 2025
+- J. Lu, M. She, **W. Mao** and Z. Wang, "[CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11043305)," 2025 IEEE International Symposium on Circuits and Systems (ISCAS), London, United Kingdom, 2025
 
 <!-- # 🎖 Honors and Awards
 - *2024.12*: Outstanding Doctoral Dissertation of Jiangsu Province.
