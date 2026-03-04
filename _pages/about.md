@@ -42,7 +42,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 
 - **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
-- 
+
 -  **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023
 
 - **W. Mao**, P. Yang, Z. Wang, "FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
@@ -55,6 +55,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
   
 - S. Zhang, **W. Mao** and Z. Wang, "VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
   
+- M. Zhao, **W. Mao** and Z. Wang, "DATA: A Memory-Efficient Deformable Transformer Accelerator via Neural Architecture Search," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 11, pp. 3097-3108, Nov. 2025
 - Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taipei, Taiwan, 2024
   
 - H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Efficient Brain-Inspired Accelerator Using a High-Accuracy Conversion Algorithm for Spiking Deformable CNN," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 72, no. 1, pp. 288-292, Jan. 2025
@@ -108,7 +109,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 - 2025 Intelligent Materials and Optoelectronic Devices Conference, Young Scientist Forum, "Multimodal Visual Information Processing and Edge-side Intelligent Computing".
 
-- International Conference on Image Vision and Intelligent Systems, "Research on AI Algorithm Design and Hardware Acceleration for Diverse Visual Data".
+- 2024 International Conference on Image Vision and Intelligent Systems, "Research on AI Algorithm Design and Hardware Acceleration for Diverse Visual Data".
 
 
 # 💻 Internships
