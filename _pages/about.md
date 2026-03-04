@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen University. I received my Ph.D. degree in Information and Communication Engineering from Nanjing University in 2023, and my B.E. degree in Information Engineering from Jilin University in 2018. My research interests include deep neural network acceleration, hardware implementation of deep learning algorithms, and efficient computing architectures. I have published more than 40 papers in prestigious IEEE journals and conferences, including IEEE TPAMI, TNNLS, TCAS-I, TVLSI, and TCAS-II. My work has been recognized with awards such as the Best Paper Award at IEEE ISVLSI 2022 and the Outstanding Doctoral Dissertation Award from the China Electronics Education Association. I have led and participated in several national and industrial research projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology, and industry leaders like Huawei and SenseTime.
+I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen University. I received my Ph.D. degree in Information and Communication Engineering from Nanjing University in 2023, and my B.E. degree in Information Engineering from Jilin University in 2018. My research interests include low-power AI chip design, robot perception and decision-making, and hardware-software co-optimization of deep neural network. I have published more than 40 papers in prestigious IEEE journals and conferences, including IEEE TPAMI, TNNLS, TCAS-I, TVLSI, and TCAS-II. My work has been recognized with awards such as the Best Paper Award at IEEE ISVLSI 2022 and the Outstanding Doctoral Dissertation Award from the China Electronics Education Association. I have led and participated in several national and industrial research projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology, and industry leaders like Huawei and SenseTime.
 
 
 # 🔥 News
@@ -41,6 +41,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 </div>
 
+
 - **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
 
 -  **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023
@@ -51,12 +52,13 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 - **W. Mao**, J. Lin, Z. Wang, "F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
 
+- Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taipei, Taiwan, 2024
+- 
 - H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Energy-Efficient Neuromorphic Accelerator Based on Deformable Spiking Transformer for Dynamic Vision Sensor," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 12, pp. 7860-7873, Dec. 2025
   
 - S. Zhang, **W. Mao** and Z. Wang, "VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
   
 - M. Zhao, **W. Mao** and Z. Wang, "DATA: A Memory-Efficient Deformable Transformer Accelerator via Neural Architecture Search," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 11, pp. 3097-3108, Nov. 2025
-- Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taipei, Taiwan, 2024
   
 - H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Efficient Brain-Inspired Accelerator Using a High-Accuracy Conversion Algorithm for Spiking Deformable CNN," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 72, no. 1, pp. 288-292, Jan. 2025
   
@@ -72,7 +74,6 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 - S. Zhang, **W. Mao**, Z. Wang, "An Efficient Accelerator Based on Lightweight Deformable 3D-CNN for Video Super-Resolution," in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023.
 
-- T. Yin, **W. Mao**, J. Lu, Z. Wang, "A Reconfigurable Accelerator for Generative Adversarial Network Training Based on FPGA," in IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pp. 144-149, 2021
   
 - J. Lu, M. She, **W. Mao** and Z. Wang, "CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model," 2025 IEEE International Symposium on Circuits and Systems (ISCAS), London, United Kingdom, 2025
 
