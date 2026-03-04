@@ -52,8 +52,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 
 - **W. Mao**, J. Lin, Z. Wang, "F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
 
-- Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taipei, Taiwan, 2024
-- 
+- Z. Feng, Z. Wang and **W. Mao**, "A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping," 2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), Taiwan, China, 2024
 - H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Energy-Efficient Neuromorphic Accelerator Based on Deformable Spiking Transformer for Dynamic Vision Sensor," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 12, pp. 7860-7873, Dec. 2025
   
 - S. Zhang, **W. Mao** and Z. Wang, "VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
