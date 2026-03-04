@@ -41,13 +41,15 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 </div>
 
-- **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023, doi: 10.1109/TMM.2022.320987
+- **W. Mao**, S. Yang, H. Shi, J. Liu and Z. Wang, "[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)," in IEEE Transactions on Multimedia, vol. 25, pp. 6485-6498, 2023
 
 -**W. Mao**, P. Yang, Z. Wang, "FTA-GAN: A Computation-Efficient Accelerator for GANs with Fast Transformation Algorithm," in IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
 -**W. Mao**, Z. Su, J. Luo, Z. Wang, "A Unified Acceleration Solution Based on Deformable Network for Image Pixel Processing," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
 
 -**W. Mao**, J. Lin, Z. Wang, "F-DNA: Fast Convolution Architecture for Deconvolutional Network Acceleration," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020.
+
+- H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "An Energy-Efficient Neuromorphic Accelerator Based on Deformable Spiking Transformer for Dynamic Vision Sensor," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 12, pp. 7860-7873, Dec. 2025
 
 -Y. Yu, **W. Mao**, J. Luo, Z. Wang, "A Low-Latency Framework with Algorithm-Hardware Co-Optimization for 3D Point Cloud," in IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
 
