@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen University. I received my Ph.D. degree in Information and Communication Engineering from Nanjing University in 2023, and my B.E. degree in Information Engineering from Jilin University in 2018. My research interests include low-power AI chip design, robot perception and decision-making, and hardware-software co-optimization of deep neural network. I have published more than 40 papers in prestigious IEEE journals and conferences, including IEEE TPAMI, TNNLS, TCAS-I, TVLSI, and TCAS-II. My work has been recognized with awards such as the Best Paper Award at IEEE ISVLSI 2022 and the Outstanding Doctoral Dissertation Award from the China Electronics Education Association. I have led and participated in several national and industrial research projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology, and industry leaders like Huawei and SenseTime.
+I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen University. I received my Ph.D. degree in Information and Communication Engineering from Nanjing University in 2023, and my B.E. degree in Information Engineering from Jilin University in 2018. My research interests include **low-power AI chip design**, **robot perception and embodied intelligent system acceleration**, and **hardware-software co-optimization of deep neural network**. I have published more than 40 papers in prestigious IEEE journals and conferences, including IEEE TPAMI, TNNLS, TCAS-I, TVLSI, and TCAS-II. My work has been recognized with awards such as the Best Paper Award at IEEE ISVLSI 2022 and the Outstanding Doctoral Dissertation Award from the China Electronics Education Association. I have led and participated in several national and industrial research projects funded by the National Natural Science Foundation of China, the Ministry of Science and Technology, and industry leaders like Huawei and SenseTime.
 
 
 # 🔥 News
@@ -49,7 +49,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 S. Zhang, Q. Dong, **W. Mao** and Z. Wang
 
 [**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10819973) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  we propose a energy-efficient accelerator for all-in-one image restorationthe with a unified algorithm, achieving good visual effect and real-time processing speed. 
+-  we propose a energy-efficient accelerator for all-in-one image restorationthe with a unified algorithm, achieving satisfactory visual effect and real-time processing speed. 
 </div>
 </div>
 
