@@ -41,6 +41,21 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Unified Accelerator for All-in-One Image Restoration Based on Prompt Degradation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10819973), IEEE Transactions on Circuits and Systems I, 2025
+
+S. Zhang, Q. Dong, **W. Mao** and Z. Wang
+
+[**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10819973) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  we propose a energy-efficient accelerator for all-in-one image restorationthe with a unified algorithm, achieving good visual effect and real-time processing speed. 
+</div>
+</div>
+
+
+
+
 
 - **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "[Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365687)," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
 
