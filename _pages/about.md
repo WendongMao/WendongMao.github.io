@@ -32,7 +32,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917)
+[Intelligent Typography: Artistic Text Style Transfer for Complex Texture and Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9906917), IEEE Transactions on Multimedia, 2023 
 
 **Wendong Mao**, Shuai Yang, Huihong Shi, Jiaying Liu, and Zhongfeng Wang
 
