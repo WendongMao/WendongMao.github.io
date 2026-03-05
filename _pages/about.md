@@ -37,7 +37,7 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 **Wendong Mao**, Shuai Yang, Huihong Shi, Jiaying Liu, and Zhongfeng Wang
 
 [**Project**](https://github.com/WendongMao/Intelligent_Typography) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  we propose the first coarse-to-fine framework to generate exquisite texts with complex texture and structure in an unsupervised way, achieving real-time control of style scale. 
+-  we propose the first coarse-to-fine framework to generate exquisite texts with complex texture and structure in an unsupervised way. The proposed Style transfer algorithm achieving real-time control of style scale. 
 </div>
 </div>
 
@@ -74,6 +74,8 @@ S. Zhang, Q. Dong, **W. Mao** and Z. Wang
 - S. Zhang, **W. Mao** and Z. Wang, "[VCNPU: An Algorithm-Hardware Co-Optimized Framework for Accelerating Neural Video Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10804689)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 4, pp. 1014-1027, April 2025
   
 - M. Zhao, **W. Mao** and Z. Wang, "[DATA: A Memory-Efficient Deformable Transformer Accelerator via Neural Architecture Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11098962)," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 33, no. 11, pp. 3097-3108, Nov. 2025
+
+- H. Shi, H. Shao, **W. Mao** and Z. Wang, "[Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742120&tag=1)," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 72, no. 3, pp. 1296-1307, March 2025,
   
 - H. Zhang, S. Zhang, **W. Mao** and Z. Wang, "[An Efficient Brain-Inspired Accelerator Using a High-Accuracy Conversion Algorithm for Spiking Deformable CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10737095)," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 72, no. 1, pp. 288-292, Jan. 2025
   
