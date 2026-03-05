@@ -66,6 +66,20 @@ S. Zhang, Q. Dong, **W. Mao** and Z. Wang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCASI 2025</div><img src='images/tcas12025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742120&tag=1), IEEE Transactions on Circuits and Systems I, 2025
+
+H. Shi, X. Cheng, **W. Mao** and Z. Wang
+
+[**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742120&tag=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  At the algorithm level, we develop a tailored post-training quantization engine taking the unique activation distributions of Softmax-free efficient ViTs into full consideration, aiming to boost quantization accuracy. At the hardware level, we build an accelerator dedicated to the specific Convolution-Transformer hybrid architecture of efficient ViTs, thereby enhancing hardware
+efficiency.
+</div>
+</div>
+
+
 
 - **W. Mao**, M. Wang, X. Xie, X. Wu and Z. Wang, "[Hardware Accelerator Design for Sparse DNN Inference and Training: A Tutorial](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365687)," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1708-1714, March 2024
 
