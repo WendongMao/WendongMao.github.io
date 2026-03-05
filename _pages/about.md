@@ -114,7 +114,7 @@ H. Shi, X. Cheng, **W. Mao** and Z. Wang
 - *2022.07* Best Paper Award, IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2022) -->
 
 # 🎖 Honors and Awards
-- *2025*: Outstanding Doctoral Dissertation of Jiangsu Province (the sole recipient in the discipline).
+- *2025*: Outstanding Doctoral Dissertation of Jiangsu Province.
 - *2024*: Outstanding Doctoral Dissertation Award from the China Electronics Education Association (one of only 20 recipients nationwide; the only recipient from Nanjing University in the past 4 years).
 - *2024*: Outstanding Doctoral Dissertation of Nanjing University.
 - *2023*: Young Excellent Talent, and Assistant Professor of the "Hundred Talents Program", Sun Yat-sen University.
