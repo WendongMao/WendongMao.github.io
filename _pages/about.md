@@ -37,11 +37,11 @@ I am an assistant professor at the School of Integrated Circuits, Sun Yat-sen Un
 **Wendong Mao**, Shuai Yang, Huihong Shi, Jiaying Liu, and Zhongfeng Wang
 
 [**Project**](https://github.com/WendongMao/Intelligent_Typography) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  we propose the first coarse-to-fine framework to generate exquisite texts with complex texture and structure in an unsupervised way. The proposed Style transfer algorithm achieving real-time control of style scale. 
+-  we propose the first coarse-to-fine framework to generate exquisite texts with complex texture and structure in an unsupervised way. The proposed style transfer algorithm achieve SOTA visual effect and real-time control of style scale. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCASI 2025</div><img src='images/tcas12025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Unified Accelerator for All-in-One Image Restoration Based on Prompt Degradation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10819973), IEEE Transactions on Circuits and Systems I, 2025
